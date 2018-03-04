@@ -1,5 +1,4 @@
 #MISS_CALLIE
-#https://discordapp.com/oauth2/authorize?client_id=209006679789010944&scope=bot&permissions=0
 
 import discord
 from discord.ext import commands
